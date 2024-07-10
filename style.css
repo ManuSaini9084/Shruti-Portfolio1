@@ -629,6 +629,13 @@ padding-bottom: 50px;
    transition: all 0.3s ease;
    text-align: center;
 }
+.banner{
+  background-image: url('images/bg.jpg'); /* Replace with your image path */
+  background-size: cover;
+  background-position: top center;
+  height: 150px; /* Adjust height as needed */
+  width: 100%;
+}
 .service .service-item .service-item-inner .icon .fa
 {
     font-size: 40px;
